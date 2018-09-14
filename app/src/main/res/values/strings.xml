@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_france">France won the 2018 World Cup.</string>
+    <string name="question_stan">Stan Lee is the creator of Spider-Man.</string>
+    <string name="question_drake">As of September 2018, Drake is the Number 1,
+        most streamed artist on Spotify.</string>
+    <string name="question_antman">Ant-Man got his powers by being bitten by a radioactive ant.</string>
+    <string name="question_apple">Apple was the world\'s first trillion dollar company.</string>
+    <string name="question_thanos">The Avengers defeat Thanos in Infinity War, and save the world.</string>
+    <string name="question_eminem">Revival was Eminem\'s most successful album</string>
+
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="next_button">Next</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
